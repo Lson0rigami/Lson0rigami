@@ -1,120 +1,111 @@
 <div align="center">
 
-# 👋 E aí, eu sou o Ellysson
+<img src="./assets/gengar.gif" width="170" alt="Gengar pixel art">
 
-### Desenvolvedor em evolução, criando sistemas úteis com Python, Flask e Web.
+# 👾 Opa, eu sou o Ellysson!
 
-Gosto de transformar problemas reais em soluções com código — desde sistemas internos, controle de estoque e produção, até automações, integrações com Pix, dashboards e sites com painel administrativo.
+### 💜 Estudante de Engenharia de Software aprendendo a transformar problemas em código.
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Sou apaixonado por tecnologia, programação e criação de sistemas que resolvem problemas de verdade.
+Atualmente curso **Engenharia de Software** e estou construindo minha base como desenvolvedor através de estudos e projetos práticos.
 
-Atualmente estou focado em evoluir como desenvolvedor, estudando e criando projetos com:
+Gosto principalmente de observar problemas do dia a dia, entender como as coisas funcionam e pensar:
 
-- 🐍 Python
-- 🌐 Flask
-- 🎨 HTML, CSS e JavaScript
+> **"dá pra automatizar isso?"**
+
+Tenho bastante interesse em criar ferramentas internas, automações e sistemas que organizem processos e economizem tempo.
+
+Minha relação com programação começou antes disso, mexendo com **GameMaker e GML**, criando jogos e experimentando com lógica. Hoje meu foco está principalmente em **Python e desenvolvimento de software**, mas ainda gosto bastante de game dev. 🎮
+
+---
+
+## 📚 O que estou aprendendo
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-6D28D9?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+Atualmente estudando e praticando:
+
+- 🐍 Python e fundamentos de programação
+- 🌐 Desenvolvimento web com Flask
 - 🗄️ Banco de dados
-- 📦 Sistemas de estoque e produção
-- 💳 Integrações com Pix e automações
-- 📊 Dashboards e ferramentas de gestão
-
-Meu objetivo é construir projetos cada vez mais completos, seguros e úteis para empresas e pessoas.
+- 🔌 APIs e integrações
+- 🌳 Git e GitHub
+- 🧠 Estrutura e organização de projetos
+- 🌐 Fundamentos de redes
+- 📐 Engenharia de Software
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🔨 Projetos e experimentos
+
+### 📦 Sistemas para problemas reais
+
+Uma das coisas que mais gosto é criar ferramentas a partir de necessidades que encontro no dia a dia.
+
+Tenho desenvolvido projetos envolvendo organização de processos, estoque, produção, etiquetas e automações — usando esses projetos também como forma de aprender programação na prática.
+
+### 🧪 AFA-Z
+
+Projeto que estou desenvolvendo enquanto aprendo mais sobre Python, Git, organização de código e desenvolvimento colaborativo.
+
+🔗 [Ver projeto](https://github.com/Lson0rigami/AFA-Z)
+
+---
+
+## 🎮 De onde veio a programação?
+
+Antes de Python, uma das minhas primeiras experiências com programação foi através do **GameMaker / GML**.
+
+Criar jogos foi o que começou a despertar meu interesse por lógica, sistemas e pela ideia de construir alguma coisa do zero.
+
+Hoje estou seguindo mais para desenvolvimento de software, mas game dev continua sendo uma parte importante dessa história. 👾
+
+🎮 [Meu GameJolt](https://gamejolt.com/@Lson0rigami)
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lson0rigami&show_icons=true&theme=midnight-purple&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lson0rigami&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 🎯 Atualmente
 
-### 🏭 Sistema de Produção / ERP
+💜 Cursando **Engenharia de Software**
 
-Sistema interno para controle de produção, estoque, metas, histórico e organização operacional.
+🐍 Evoluindo em **Python**
 
-**Tecnologias:** Python, Flask, HTML, CSS, Banco de Dados
+🔨 Criando projetos para aprender na prática
 
----
-
-### 💳 Gerador de Pix com Confirmação
-
-Projeto voltado para pequenos negócios que precisam gerar cobranças Pix e confirmar pagamentos de forma mais segura.
-
-**Tecnologias:** Python, Flask, API Pix, Webhook
-
----
-
-### 🌐 SaaS Contábil
-
-Base de sistema web para uma empresa de contabilidade, com foco em área do cliente, organização de documentos e segurança.
-
-**Tecnologias:** Flask, Python, HTML, CSS, Autenticação, Banco de Dados
-
----
-
-### 🤖 Automações e Catálogos
-
-Projetos voltados para automatizar atendimento, organizar produtos e facilitar vendas por WhatsApp ou catálogo online.
-
-**Tecnologias:** Python, Web, Painel Admin, WhatsApp
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ellysson GitHub stats](https://github-readme-stats.vercel.app/api?username=lson0rigami&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lson0rigami&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Atualmente estudando
-
-- Python avançando aos poucos
-- Flask para sistemas web
-- Banco de dados
-- Segurança em aplicações
-- APIs e integrações
-- Organização de projetos reais
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/lson0rigami)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:lson0rigami@gmail.com)
-
-</div>
+🌱 Tentando entender um pouco mais de programação a cada commit
 
 ---
 
 <div align="center">
 
-### Sempre evoluindo, sempre criando. 🚀
+### 👾 aprendendo, quebrando coisas e tentando consertar depois.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lson0rigami&color=6D28D9&style=flat-square)
 
 </div>
