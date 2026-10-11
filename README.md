@@ -1,98 +1,127 @@
+
 <div align="center">
 
-<img src="./assets/charizard.gif" width="220" alt="Charizard pixel art">
+<img src="./assets/charizard.gif" width="210" alt="Charizard Pixel Art">
 
 # 🔥 Opa, eu sou o Ellysson!
 
-### Estudante de Engenharia de Software construindo soluções reais com código.
+### Estudante de Engenharia de Software | Desenvolvedor em evolução
+
+**Transformando problemas reais em soluções através do código.**
+
+![Python](https://img.shields.io/badge/Python-DC2626?style=flat-square&logo=python&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Em%20formação-EA580C?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-991B1B?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Atualmente curso **Engenharia de Software** e venho evoluindo através de estudo, prática e desenvolvimento de projetos reais.
+Sou estudante de **Engenharia de Software**, apaixonado por tecnologia, resolução de problemas e desenvolvimento de soluções que fazem diferença no mundo real.
 
-Gosto de observar processos, identificar problemas e pensar:
+Minha relação com programação começou criando jogos com **GameMaker e GML**. Foi ali que descobri o quanto gostava de lógica, sistemas e da possibilidade de construir algo do zero.
 
-> **"como isso pode ser organizado, automatizado ou melhorado com software?"**
+Hoje, meu foco está no **desenvolvimento Full Stack**, principalmente utilizando Python, Flask e PostgreSQL.
 
-Hoje meu foco está principalmente em **Python, Flask, PostgreSQL, Git, Linux e desenvolvimento de sistemas**, buscando sempre transformar aprendizado em solução prática.
+Gosto de entender como as coisas funcionam, identificar problemas e buscar maneiras de melhorar processos através da tecnologia.
 
-Minha relação com programação começou antes disso, com **GameMaker e GML**, criando jogos e explorando lógica. Foi ali que nasceu meu interesse por construir coisas do zero. Hoje sigo mais voltado para **software, automações e sistemas internos**, mas game dev continua sendo uma parte importante da minha história. 🎮
+> 💡 "Se existe um problema, provavelmente existe uma maneira de resolvê-lo com lógica, criatividade e algumas linhas de código."
+
+Atualmente, concilio meus estudos com o desenvolvimento de soluções voltadas a necessidades reais, aprendendo na prática sobre arquitetura, banco de dados, interfaces, segurança e manutenção de software.
 
 ---
 
-## 🚀 Stack e tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
+### Backend & Banco de Dados
+
 ![Python](https://img.shields.io/badge/Python-DC2626?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-B91C1C?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-991B1B?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-7F1D1D?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-DC2626?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-EA580C?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-B91C1C?style=for-the-badge&logo=linux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-991B1B?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-EA580C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-DC2626?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B91C1C?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Ferramentas & Ambiente
+
+![Git](https://img.shields.io/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-991B1B?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-EA580C?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-B91C1C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📚 O que estou estudando e desenvolvendo
+## 🚀 Projetos & Experiência Prática
 
-- 🐍 **Python** e fundamentos sólidos de programação  
-- 🌐 **Desenvolvimento web com Flask**  
-- 🗄️ **Banco de dados com PostgreSQL**  
-- 🔌 **APIs, integrações e organização de sistemas**  
-- 🌳 **Git e GitHub** para versionamento e colaboração  
-- 🧠 **Estruturação de projetos** e boas práticas  
-- 🌐 **Fundamentos de Redes**  
-- 📐 **Engenharia de Software**  
+### 🏢 Desenvolvimento de Sistema Empresarial
 
----
+Atualmente estou envolvido no desenvolvimento e evolução de um **sistema web de gestão operacional**, destinado à utilização interna em ambiente empresarial.
 
-## 🔨 Projetos em destaque
+O projeto surgiu da necessidade de organizar processos, reduzir atividades manuais e transformar fluxos operacionais em soluções digitais mais eficientes.
 
-### 📦 Barnabé Operações
-Sistema que venho desenvolvendo com foco em **operações internas**, ajudando na organização de processos como:
+Ao longo desse desenvolvimento, venho adquirindo experiência prática em:
 
-- pedidos
-- produção
-- estoque
-- etiquetas
-- separação
-- romaneios
-- fluxo operacional
+- **Backend:** construção de funcionalidades, validações e regras de negócio com Python e Flask.
+- **Banco de dados:** modelagem, consultas, persistência e integração com PostgreSQL.
+- **Frontend:** desenvolvimento de interfaces responsivas utilizando HTML, CSS e JavaScript.
+- **Segurança:** autenticação, permissões e controle de acesso.
+- **Infraestrutura:** Linux, servidores VPS e implantação de aplicações web.
+- **Engenharia de Software:** organização de código, versionamento, testes, manutenção e evolução contínua.
 
-É um projeto muito importante na minha trajetória, porque une **aprendizado técnico** com **problemas reais do dia a dia**.
+Essa experiência tem sido uma das partes mais importantes da minha formação, permitindo conectar conceitos acadêmicos a desafios reais.
 
-🔗 [Ver repositório](https://github.com/Lson0rigami/Barnabe-Ops)
+**Mais do que escrever código, estou aprendendo a construir software que precisa funcionar, evoluir e atender pessoas.**
 
----
+> 🔒 Projeto privado, desenvolvido para uso interno.
 
 ### 🧪 AFA-Z
-Projeto que utilizo para continuar evoluindo em programação, estrutura de código, versionamento e construção prática.
 
-🔗 [Ver projeto](https://github.com/Lson0rigami/AFA-Z)
+Projeto de aprendizado e experimentação, voltado ao desenvolvimento de habilidades em programação, organização de código, Git e desenvolvimento colaborativo.
+
+🔗 [Explorar repositório](https://github.com/Lson0rigami/AFA-Z)
+
+---
+
+## 📚 Minha jornada de aprendizado
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- 🐍 **Python:** lógica, orientação a objetos e desenvolvimento backend.
+- 🌐 **Desenvolvimento Web:** APIs, arquitetura e integração entre frontend e backend.
+- 🗄️ **Banco de Dados:** PostgreSQL, SQL e modelagem relacional.
+- 🔐 **Segurança da Informação:** autenticação, proteção de dados e boas práticas.
+- 🖧 **Redes de Computadores:** protocolos, comunicação e infraestrutura.
+- 🐧 **Linux:** administração de ambientes e ferramentas de desenvolvimento.
+- 📐 **Engenharia de Software:** análise, requisitos, testes e arquitetura de sistemas.
+
+Meu objetivo é evoluir como desenvolvedor Full Stack, construindo uma base sólida em lógica, engenharia e resolução de problemas.
 
 ---
 
 ## 🎮 Onde tudo começou
 
-Antes do foco em sistemas e software, uma das minhas primeiras experiências com programação foi no **GameMaker / GML**.
+<div align="center">
 
-Criar jogos me ajudou a desenvolver:
-- lógica
-- criatividade
-- organização
-- vontade de construir coisas do zero
+**Antes de desenvolver sistemas, eu queria desenvolver jogos.**
 
-Mesmo seguindo hoje mais para a área de desenvolvimento de software, essa origem continua sendo parte da minha identidade como programador.
+</div>
 
-🎮 [Meu GameJolt](https://gamejolt.com/@Lson0rigami)
+Uma das minhas primeiras experiências com programação foi utilizando **GameMaker Studio e GML**.
+
+Criar jogos despertou meu interesse por lógica, criatividade e construção de sistemas.
+
+Mesmo seguindo atualmente um caminho mais voltado ao desenvolvimento de software, continuo gostando de game dev, jogos independentes e da maneira como jogos transformam ideias em experiências interativas.
+
+🎮 [Meu perfil no GameJolt](https://gamejolt.com/@Lson0rigami)
 
 ---
 
@@ -100,36 +129,32 @@ Mesmo seguindo hoje mais para a área de desenvolvimento de software, essa orige
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lson0rigami&show_icons=true&hide_border=true&bg_color=00000000&title_color=DC2626&icon_color=EA580C&text_color=F5F5F5&border_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lson0rigami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=F97316&text_color=F3F4F6" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lson0rigami&layout=compact&hide_border=true&bg_color=00000000&title_color=DC2626&text_color=F5F5F5&border_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lson0rigami&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=F3F4F6" alt="Linguagens mais utilizadas" />
 
 </div>
 
 ---
 
-## 🎯 Atualmente
+## 🎯 Próximos objetivos
 
-- 🎓 Cursando **Engenharia de Software**
-- 🐍 Evoluindo em **Python**
-- 🗄️ Aprendendo mais sobre **PostgreSQL**
-- 🐧 Me aprofundando no uso de **Linux**
-- 🔨 Criando projetos para aprender na prática
-- 🚀 Buscando evoluir de forma constante como desenvolvedor
-
----
-
-## 📫 Contato e links
-
-- GitHub: [@Lson0rigami](https://github.com/Lson0rigami)
-- GameJolt: [@Lson0rigami](https://gamejolt.com/@Lson0rigami)
+- Consolidar meus conhecimentos em **Python e desenvolvimento backend**.
+- Evoluir na construção de aplicações Full Stack.
+- Aprofundar meus estudos em arquitetura e segurança de software.
+- Aprimorar minhas habilidades com bancos de dados e infraestrutura.
+- Continuar desenvolvendo soluções práticas para problemas reais.
 
 ---
 
 <div align="center">
 
-### 🔥 aprendendo na prática, resolvendo problemas reais e evoluindo a cada commit.
+### 🔥 Sempre em evolução.
+
+*Aprendendo, construindo, errando, corrigindo e melhorando a cada commit.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lson0rigami&color=DC2626&style=flat-square)
+
+**[GitHub](https://github.com/Lson0rigami)** • **[GameJolt](https://gamejolt.com/@Lson0rigami)**
 
 </div>
