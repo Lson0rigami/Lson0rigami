@@ -3,7 +3,7 @@
 
 <img src="./assets/charizard.gif" width="210" alt="Charizard Pixel Art">
 
-# 🔥 Opa, eu sou o Ellysson!
+# 🔥 Salve, eu sou o Ellysson!
 
 ### Estudante de Engenharia de Software | Desenvolvedor em evolução
 
